@@ -1,0 +1,2 @@
+# PackageBuddyModel
+PackageBuddy domain models.
